@@ -1,0 +1,51 @@
+.bussines{
+    
+    width: 1200px;
+    margin: auto;
+}
+.bussines-card {
+    width: 1200px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.main-card {
+    margin: auto;
+    width: 400px;
+    
+}
+.main-card img {
+    margin: auto;
+    width: 500px;
+    
+}
+
+.little-card  {
+    
+    width: 300px;
+    margin: auto;
+}
+.little-card img {
+   
+    width: 300px;
+
+}
+
+.card-with-links {
+    
+    width: 200px;
+    margin: auto;
+
+}
+.card-with-links img {
+    margin: auto;
+    width: 200px;
+
+}
+.card-sub-title{
+    width: 200px;
+}
+.card-descr{
+    width: 200px; 
+}

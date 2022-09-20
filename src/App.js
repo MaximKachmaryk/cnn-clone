@@ -7,6 +7,7 @@ import './App.css';
 import More from './comonents/More/More';
 import Health from './comonents/Health/Health';
 import US from './comonents/USPolitice/USpol';
+import Bussines from './comonents/Bussines/bussines';
 /* import World from './comonents/World/world'; */
 
 
@@ -23,6 +24,7 @@ function App() {
           <Route path="more" element={<More/>} />
           <Route path="health" element={<Health/>} />
           <Route path="uspoitise" element={<US/>} />
+          <Route path="bussines" element={<Bussines/>} />
         </Route>
       </Routes>
     </BrowserRouter>
