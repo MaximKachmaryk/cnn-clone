@@ -4,13 +4,12 @@ import "./Cards.css";
 
 function Cards() {
     return <div className="cards-row">
-
-        <Card  cardtitle="africa"/>
-        <Card  cardtitle="Evrope"/>
-        <Card  cardtitle="Ukraine"/>
-       
-        
-
-    </div>
+        <Card cardtitle="africa" />
+        <Card cardtitle="Evrope" />
+        <Card cardtitle="Ukraine" />
+        <Card cardtitle="Evrope" />
+        <Card cardtitle="Ukraine" />
+        <Card cardtitle="Evrope" />
+</div >    
 }
-export default Cards;
+        export default Cards;
